@@ -9,3 +9,4 @@ Quick Demo Implementation for LoginRadius' Customer Registration Service and Soc
 2. Fill in your LoginRadius API Key and Site Name respectively.
 3. Everything should just start working
 
+thank you
